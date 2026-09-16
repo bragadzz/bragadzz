@@ -5,8 +5,6 @@
 **Onde estou: Brasil BH - MG**  
 **Contato: @bragadzz**    
 
-Trabalho nas duas pontas: a API em TypeScript e o app nativo que fica em cima dela.
-
 > **Sobre esta conta.** Esta é a minha conta atual. A anterior foi removida, e nada dela foi
 > migrado para cá. Os projetos abaixo estão em repositórios privados — o gráfico de
 > contribuições daqui não conta a história.

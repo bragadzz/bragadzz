@@ -1,10 +1,9 @@
 ## Arthur Braga
 
 <!-- Preencha o que quiser aqui. O que ficar vazio, apague a linha. -->
-**Nome:**  
-**Onde estou:**  
-**Contato:**  
-**Links:**  
+**Nome: Arthur Braga**  
+**Onde estou: Brasil BH - MG**  
+**Contato: @bragadzz**    
 
 Trabalho nas duas pontas: a API em TypeScript e o app nativo que fica em cima dela.
 

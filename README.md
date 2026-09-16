@@ -1,5 +1,11 @@
 ## bragadzz
 
+<!-- Preencha o que quiser aqui. O que ficar vazio, apague a linha. -->
+**Nome:**  
+**Onde estou:**  
+**Contato:**  
+**Links:**  
+
 Trabalho nas duas pontas: a API em TypeScript e o app nativo que fica em cima dela.
 
 > **Sobre esta conta.** Esta é a minha conta atual. A anterior foi removida, e nada dela foi
